@@ -10,7 +10,7 @@ sites:
   - name: Timmerdorp shop
     url: https://shop.timmerdorp.com
   - name: Timmerdorp wordpress
-    url: https://wordpress.timmerdorp.com
+    url: https://wordpress.timmerdorp.com/wp-json/wp/v2/posts
   - name: Tdorp.nl
     url: https://tdorp.nl
   - name: MyDashboard - Ping/backgroundJob
