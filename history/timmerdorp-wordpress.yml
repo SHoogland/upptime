@@ -1,7 +1,7 @@
-url: https://wordpress.timmerdorp.com
+url: https://wordpress.timmerdorp.com/wp-json/wp/v2/posts
 status: up
 code: 200
-responseTime: 1890
-lastUpdated: 2021-04-25T10:50:53.065Z
+responseTime: 2957
+lastUpdated: 2021-04-25T10:54:01.786Z
 startTime: Sun Apr 25 2021 10:50:51 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
