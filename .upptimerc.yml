@@ -7,6 +7,18 @@ sites:
     url: https://www.shoogland.com
   - name: Timmerdorp
     url: https://timmerdorp.com
+  - name: Timmerdorp shop
+    url: https://shop.timmerdorp.com
+  - name: Timmerdorp wordpress
+    url: https://wordpress.timmerdorp.com
+  - name: Tdorp.nl
+    url: https://tdorp.nl
+  - name: MyDashboard - Ping/backgroundJob
+    url: https://us-central1-my-dashboard-firebase.cloudfunctions.net/ping
+  - name: MyDashboard
+    url: https://mydashboard.shld.nl
+  - name: Boblevering.nl
+    url: https://boblevering.nl
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
