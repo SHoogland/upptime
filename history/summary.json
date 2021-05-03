@@ -112,7 +112,7 @@
     "url": "https://mydashboard.shld.nl",
     "icon": "https://favicons.githubusercontent.com/mydashboard.shld.nl",
     "slug": "my-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -123,7 +123,9 @@
     "timeWeek": 364,
     "timeMonth": 486,
     "timeYear": 486,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-03": 0
+    }
   },
   {
     "name": "Boblevering.nl",
@@ -132,12 +134,12 @@
     "slug": "boblevering-nl",
     "status": "up",
     "uptime": "99.64%",
-    "uptimeDay": "99.19%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.61%",
     "uptimeMonth": "99.64%",
     "uptimeYear": "99.64%",
     "time": 317,
-    "timeDay": 219,
+    "timeDay": 128,
     "timeWeek": 297,
     "timeMonth": 317,
     "timeYear": 317,
