@@ -112,19 +112,19 @@
     "url": "https://mydashboard.shld.nl",
     "icon": "https://favicons.githubusercontent.com/mydashboard.shld.nl",
     "slug": "my-dashboard",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 486,
-    "timeDay": 243,
-    "timeWeek": 364,
-    "timeMonth": 486,
-    "timeYear": 486,
+    "status": "up",
+    "uptime": "99.83%",
+    "uptimeDay": "98.72%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
+    "time": 506,
+    "timeDay": 472,
+    "timeWeek": 406,
+    "timeMonth": 506,
+    "timeYear": 506,
     "dailyMinutesDown": {
-      "2021-05-03": 0
+      "2021-05-03": 18
     }
   },
   {
