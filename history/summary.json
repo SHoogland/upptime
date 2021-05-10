@@ -22,19 +22,19 @@
     "url": "https://timmerdorp.com",
     "icon": "https://favicons.githubusercontent.com/timmerdorp.com",
     "slug": "timmerdorp",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 319,
-    "timeDay": 316,
+    "timeDay": 318,
     "timeWeek": 320,
     "timeMonth": 319,
     "timeYear": 319,
     "dailyMinutesDown": {
-      "2021-05-10": 0
+      "2021-05-10": 6
     }
   },
   {
