@@ -96,19 +96,19 @@
     "url": "https://us-central1-my-dashboard-firebase.cloudfunctions.net/ping",
     "icon": "https://favicons.githubusercontent.com/us-central1-my-dashboard-firebase.cloudfunctions.net",
     "slug": "my-dashboard-ping-background-job",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 558,
-    "timeDay": 255,
-    "timeWeek": 345,
-    "timeMonth": 558,
-    "timeYear": 558,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "97.66%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 851,
+    "timeDay": 4513,
+    "timeWeek": 1549,
+    "timeMonth": 851,
+    "timeYear": 851,
     "dailyMinutesDown": {
-      "2021-05-21": 0
+      "2021-05-21": 34
     }
   },
   {
