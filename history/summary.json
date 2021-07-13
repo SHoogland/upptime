@@ -60,9 +60,9 @@
     "url": "https://wordpress.timmerdorp.com/wp-json/wp/v2/posts",
     "icon": "https://favicons.githubusercontent.com/wordpress.timmerdorp.com",
     "slug": "timmerdorp-wordpress",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,7 +71,9 @@
     "timeWeek": 1816,
     "timeMonth": 1740,
     "timeYear": 1775,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-13": 0
+    }
   },
   {
     "name": "Tdorp.nl",
