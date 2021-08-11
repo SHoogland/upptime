@@ -61,19 +61,19 @@
     "url": "https://wordpress.timmerdorp.com/wp-json/wp/v2/posts",
     "icon": "https://favicons.githubusercontent.com/wordpress.timmerdorp.com",
     "slug": "timmerdorp-wordpress",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1750,
-    "timeDay": 1354,
-    "timeWeek": 1672,
-    "timeMonth": 1675,
-    "timeYear": 1750,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 1749,
+    "timeDay": 1491,
+    "timeWeek": 1666,
+    "timeMonth": 1674,
+    "timeYear": 1749,
     "dailyMinutesDown": {
-      "2021-08-11": 0
+      "2021-08-11": 11
     }
   },
   {
