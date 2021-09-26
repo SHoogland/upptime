@@ -22,10 +22,10 @@
     "url": "https://timmerdorp.com",
     "icon": "https://favicons.githubusercontent.com/timmerdorp.com",
     "slug": "timmerdorp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 513,
@@ -34,6 +34,7 @@
     "timeMonth": 485,
     "timeYear": 513,
     "dailyMinutesDown": {
+      "2021-09-26": 1,
       "2021-07-29": 24,
       "2021-05-18": 20
     }
@@ -79,9 +80,9 @@
     "url": "https://tdorp.nl",
     "icon": "https://favicons.githubusercontent.com/tdorp.nl",
     "slug": "tdorp-nl",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -90,7 +91,9 @@
     "timeWeek": 506,
     "timeMonth": 464,
     "timeYear": 397,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-26": 0
+    }
   },
   {
     "name": "MyDashboard - Ping/backgroundJob",
