@@ -19,6 +19,8 @@ sites:
     url: https://mydashboard.shld.nl
   - name: Boblevering.nl
     url: https://boblevering.nl
+  - name: Scouting Rurik
+    url: https://www.scoutingrurik.nl/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
