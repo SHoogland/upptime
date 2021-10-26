@@ -1,7 +1,7 @@
 url: https://mydashboard.shld.nl
-status: up
-code: 200
-responseTime: 451
-lastUpdated: 2021-10-25T23:02:00.904Z
+status: down
+code: 503
+responseTime: 1262
+lastUpdated: 2021-10-26T14:51:58.246Z
 startTime: Sun Apr 25 2021 10:50:55 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
