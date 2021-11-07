@@ -4,9 +4,9 @@
     "url": "https://www.shoogland.com",
     "icon": "https://favicons.githubusercontent.com/www.shoogland.com",
     "slug": "s-hoogland-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 499,
     "timeMonth": 488,
     "timeYear": 490,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-07": 0
+    }
   },
   {
     "name": "Timmerdorp",
