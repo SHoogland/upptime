@@ -43,9 +43,9 @@
     "url": "https://shop.timmerdorp.com",
     "icon": "https://favicons.githubusercontent.com/shop.timmerdorp.com",
     "slug": "timmerdorp-shop",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -54,7 +54,9 @@
     "timeWeek": 223,
     "timeMonth": 258,
     "timeYear": 353,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-16": 0
+    }
   },
   {
     "name": "Timmerdorp wordpress",
@@ -126,9 +128,9 @@
     "url": "https://mydashboard.shld.nl",
     "icon": "https://favicons.githubusercontent.com/mydashboard.shld.nl",
     "slug": "my-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -138,6 +140,7 @@
     "timeMonth": 366,
     "timeYear": 358,
     "dailyMinutesDown": {
+      "2021-11-16": 0,
       "2021-05-03": 47
     }
   },
@@ -146,9 +149,9 @@
     "url": "https://boblevering.nl",
     "icon": "https://favicons.githubusercontent.com/boblevering.nl",
     "slug": "boblevering-nl",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -158,6 +161,7 @@
     "timeMonth": 337,
     "timeYear": 296,
     "dailyMinutesDown": {
+      "2021-11-16": 0,
       "2021-05-02": 16,
       "2021-05-01": 23
     }
@@ -168,14 +172,14 @@
     "icon": "https://favicons.githubusercontent.com/www.scoutingrurik.nl",
     "slug": "scouting-rurik",
     "status": "up",
-    "uptime": "99.23%",
+    "uptime": "99.25%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.30%",
-    "uptimeMonth": "99.23%",
-    "uptimeYear": "99.23%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.25%",
+    "uptimeYear": "99.25%",
     "time": 1342,
     "timeDay": 2578,
-    "timeWeek": 1156,
+    "timeWeek": 1135,
     "timeMonth": 1342,
     "timeYear": 1342,
     "dailyMinutesDown": {
