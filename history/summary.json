@@ -4,9 +4,9 @@
     "url": "https://www.shoogland.com",
     "icon": "https://favicons.githubusercontent.com/www.shoogland.com",
     "slug": "s-hoogland-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 544,
     "timeMonth": 494,
     "timeYear": 489,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-28": 0
+    }
   },
   {
     "name": "Timmerdorp",
@@ -175,11 +177,11 @@
     "icon": "https://favicons.githubusercontent.com/www.scoutingrurik.nl",
     "slug": "scouting-rurik",
     "status": "up",
-    "uptime": "99.48%",
+    "uptime": "99.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.38%",
-    "uptimeYear": "99.48%",
+    "uptimeYear": "99.49%",
     "time": 1392,
     "timeDay": 777,
     "timeWeek": 1376,
