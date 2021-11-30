@@ -4,10 +4,10 @@
     "url": "https://www.shoogland.com",
     "icon": "https://favicons.githubusercontent.com/www.shoogland.com",
     "slug": "s-hoogland-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "96.35%",
-    "uptimeWeek": "98.93%",
+    "uptimeDay": "96.34%",
+    "uptimeWeek": "98.92%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.97%",
     "time": 529,
@@ -16,6 +16,7 @@
     "timeMonth": 740,
     "timeYear": 529,
     "dailyMinutesDown": {
+      "2021-11-30": 0,
       "2021-11-29": 52,
       "2021-11-28": 56
     }
