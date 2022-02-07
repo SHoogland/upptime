@@ -185,18 +185,19 @@
     "url": "https://www.scoutingrurik.nl/",
     "icon": "https://favicons.githubusercontent.com/www.scoutingrurik.nl",
     "slug": "scouting-rurik",
-    "status": "up",
-    "uptime": "99.82%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.83%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.82%",
-    "time": 1301,
-    "timeDay": 892,
-    "timeWeek": 1319,
-    "timeMonth": 1213,
-    "timeYear": 1301,
+    "uptimeYear": "99.83%",
+    "time": 1295,
+    "timeDay": 760,
+    "timeWeek": 1233,
+    "timeMonth": 1195,
+    "timeYear": 1295,
     "dailyMinutesDown": {
+      "2022-02-07": 0,
       "2021-11-09": 272
     }
   }
