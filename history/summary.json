@@ -187,9 +187,9 @@
     "url": "https://www.scoutingrurik.nl/",
     "icon": "https://favicons.githubusercontent.com/www.scoutingrurik.nl",
     "slug": "scouting-rurik",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "98.63%",
+    "uptimeDay": "98.62%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.87%",
@@ -199,6 +199,7 @@
     "timeMonth": 2463,
     "timeYear": 1533,
     "dailyMinutesDown": {
+      "2022-04-01": 0,
       "2022-03-31": 20,
       "2021-11-09": 272
     }
