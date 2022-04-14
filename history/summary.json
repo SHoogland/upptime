@@ -49,9 +49,9 @@
     "slug": "timmerdorp-shop",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.01%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 356,
     "timeDay": 170,
@@ -59,7 +59,7 @@
     "timeMonth": 272,
     "timeYear": 356,
     "dailyMinutesDown": {
-      "2022-04-14": 12,
+      "2022-04-14": 29,
       "2021-11-16": 29
     }
   },
@@ -147,9 +147,9 @@
     "url": "https://mydashboard.shld.nl",
     "icon": "https://favicons.githubusercontent.com/mydashboard.shld.nl",
     "slug": "my-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -159,6 +159,7 @@
     "timeMonth": 437,
     "timeYear": 435,
     "dailyMinutesDown": {
+      "2022-04-14": 0,
       "2021-11-16": 17,
       "2021-05-03": 47
     }
@@ -170,9 +171,9 @@
     "slug": "boblevering-nl",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.86%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.98%",
     "time": 284,
     "timeDay": 177,
@@ -180,7 +181,7 @@
     "timeMonth": 275,
     "timeYear": 284,
     "dailyMinutesDown": {
-      "2022-04-14": 0,
+      "2022-04-14": 16,
       "2022-04-10": 16,
       "2021-11-16": 29,
       "2021-05-02": 16,
